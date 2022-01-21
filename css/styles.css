@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    padding-top: 6rem;
+}
+
+nav.navbar {
+    position: fixed;
+    width: 100%;
+}
+
+.bg-chicken {
+    background-color: #FFE162;
+    color: white;
+}
+
+.bg-beef {
+    background-color: #FF6464;
+    color: white;
+}
+
+.bg-sushi {
+    background-color: #91C483;
+    color: white;
+}
+
+
+
+.bg h3 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #EEEEEE;
+    color: black;
+    font-weight: bold;
+}
+
+.bg p {
+    padding: 1.5rem;
+}
