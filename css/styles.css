@@ -13,6 +13,15 @@ nav.navbar {
     width: 100%;
 }
 
+h2.text-center {
+    margin-bottom: 2rem;
+}
+
+.damn {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
 .bg-chicken {
     background-color: #FFE162;
     color: white;
@@ -30,7 +39,7 @@ nav.navbar {
 
 
 
-.bg h3 {
+.bg h4 {
     padding-top: 1rem;
     padding-bottom: 1rem;
     background-color: #EEEEEE;
